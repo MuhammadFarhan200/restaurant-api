@@ -79,6 +79,30 @@ const restaurant = [
             "food_image": "https://asset.kompas.com/crops/eM1CWvjJQ8adcTIvHGcLKwXB87M=/0x0:1000x667/750x500/data/photo/2021/10/27/6178b4b7cf154.jpeg",  
             "food_price": "Rp. 150.000.00",
           },
+          {
+            "id": 12,
+            "food_name": "Baked salmon",
+            "food_image": "https://asset.kompas.com/crops/rFoP1sNYw9cnRClYgqUYF9FKWL0=/0x53:1191x847/750x500/data/photo/2021/02/09/60225ac822621.jpg",  
+            "food_price": "Rp. 150.000.00",
+          },
+          {
+            "id": 13,
+            "food_name": "Pesto chicken baked",
+            "food_image": "https://asset.kompas.com/crops/WG0HBHsYEVx3G7EjN9KWqP2JnGI=/0x37:1280x890/750x500/data/photo/2021/02/09/602264bda959b.jpg",  
+            "food_price": "Rp. 150.000.00",
+          },
+          {
+            "id": 14,
+            "food_name": "Lobster Mac And Cheese",
+            "food_image": "https://asset.kompas.com/crops/gbIv6qToLSJ1Y-x7WmpbIfrtLA0=/0x0:5472x3648/750x500/data/photo/2021/02/09/60226edf032e0.jpg",  
+            "food_price": "Rp. 150.000.00",
+          },
+          {
+            "id": 15,
+            "food_name": "Shoyu Ramen",
+            "food_image": "https://asset.kompas.com/crops/EZQaX65S9BeMXb4JNfUURfkYLeE=/0x269:1280x1123/750x500/data/photo/2021/01/05/5ff3e7e538bde.jpg",  
+            "food_price": "Rp. 150.000.00",
+          },
         ],
         "drinks": [
           {
@@ -145,6 +169,30 @@ const restaurant = [
             "id": 11,
             "drink_name": "Mojito",
             "drink_image": "https://i0.wp.com/indobubbletea.blog/wp-content/uploads/2014/11/smirnoff-apple-mojito-white-stores-alternative-cocktail-recipe-drink.jpg",
+            "drink_price": "Rp. 40.000.00",
+          },
+          {
+            "id": 12,
+            "drink_name": "Hot Tea",
+            "drink_image": "https://i0.wp.com/indobubbletea.blog/wp-content/uploads/2014/11/smirnoff-apple-mojito-white-stores-alternative-cocktail-recipe-drink.jpg",
+            "drink_price": "Rp. 40.000.00",
+          },
+          {
+            "id": 13,
+            "drink_name": "Smoothie",
+            "drink_image": "https://i0.wp.com/indobubbletea.blog/wp-content/uploads/2014/11/smoothie.jpg?resize=750%2C563&ssl=1",
+            "drink_price": "Rp. 40.000.00",
+          },
+          {
+            "id": 14,
+            "drink_name": "Hot Chocolate",
+            "drink_image": "https://i0.wp.com/indobubbletea.blog/wp-content/uploads/2014/11/hot-chocolate-e1416083854420.jpg?resize=375%2C375&ssl=1",
+            "drink_price": "Rp. 40.000.00",
+          },
+          {
+            "id": 15,
+            "drink_name": "Fruit Yogurt",
+            "drink_image": "https://i0.wp.com/indobubbletea.blog/wp-content/uploads/2014/11/yogurt-3.jpg?resize=600%2C450&ssl=1",
             "drink_price": "Rp. 40.000.00",
           },
         ],
