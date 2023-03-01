@@ -7,7 +7,7 @@ const router = express.Router();
 const restaurant = [
   {
     "id": 1,
-    "restaurant_name": "Burger King",
+    "restaurant_name": "Peking Hors D'oeuvre",
     "restaurant_address": "1234 Main Street",
     "restaurant_city": "New York",
     "data": [
