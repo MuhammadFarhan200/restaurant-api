@@ -7,7 +7,7 @@ const router = express.Router();
 const restaurant = [
   {
     "id": 1,
-    "restaurant_name": "Peking Hors D'oeuvre",
+    "restaurant_name": "Peking Hor  s D'oeuvre",
     "restaurant_address": "1234 Main Street",
     "restaurant_city": "New York",
     "data": [
@@ -159,7 +159,7 @@ router.get('/restaurant', (req, res) => {
 
 app.listen(3000, () => {
   console.log('Server berjalan pada port 3000');
-  console.log('Open Result: http://localhost:3000/.netlify/functions/api/');
+  console.log('Open Result: http://localhost:3000/.netlify/functions/api/restaurant');
 });
 
 app.use('/.netlify/functions/api', router);
